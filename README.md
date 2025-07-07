@@ -1,0 +1,2 @@
+# INRcoir
+INRcoin Bitcoin currency
